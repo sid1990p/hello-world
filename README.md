@@ -1,2 +1,2 @@
 # hello-world
-Siddharth PAtni working in TCS.
+Siddharth Patni working in TCS.
